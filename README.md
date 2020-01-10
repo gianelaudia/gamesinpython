@@ -16,7 +16,7 @@
           
           #Descripción:
 
-          Minijuego que toma el año actual y el año ingresado mediante una entrada de texto.
+          Minijuego que toma el año actual y el año ingresado mediante INPUT.
           Calcula tu edad y muestra un mensaje subliminal.
           
           
@@ -42,18 +42,17 @@
           
           #Descripción:
 
-          Minijuego que consta de un INPUT y sentacias IF, son cadenas de texto y digitos.
+          Minijuego que consta de un INPUT y sentencias IF, son cadenas de texto y dígitos.
           No perderás tan pronto, ya que antes, te pregunta si quieres jugar.
           Escribe "SI" o "NO" para responder.
           La primera vez es mas sencillo.
           No trates de ganar.
-          No trates de perder.
 
 
           #Fix:
           
-          Se arreglo la falla de minúsculas.
-          Se mejoro el texto final.
+          Se arregló la falla de minúsculas.
+          Se mejoró el texto final.
           Se centró el texto, de acuerdo al terminal.
           
           
